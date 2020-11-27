@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=+24V Pin=P1-1
+Change Component Description : Designator=J2 Old Description=Conn USB 2.0 Type A RCP 4 POS Solder RA Thru-Hole 4 Terminal 1 Port Tray New Description=Conn USB 2.0 Type A RCP 4 POS Solder RA Thru-Hole 4 Terminal 1 Port Tray|Tube
+Added Component: Designator=J3(Solder Jumper)
+Added Pin To Net: NetName=+24V Pin=J3-1
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=P1-1
+Added Net: Name=NetJ3_3
+Added Member To Class: ClassName=v1.0 Member=Component J3 Solder Jumper
+Added Room: Name=v1.0
