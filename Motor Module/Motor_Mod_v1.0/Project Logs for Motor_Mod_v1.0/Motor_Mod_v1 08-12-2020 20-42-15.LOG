@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=+3V3 Pin=CN1-1
+Removed Pin From Net: NetName=GND Pin=CN1-2
+Removed Pin From Net: NetName=DIR Pin=CN1-3
+Removed Pin From Net: NetName=PWM Pin=CN1-4
+Removed Pin From Net: NetName=SIG_1 Pin=CN1-5
+Removed Pin From Net: NetName=SIG_2 Pin=CN1-6
+Removed Pin From Net: NetName=TEMP Pin=CN1-7
+Removed Pin From Net: NetName=FAN Pin=CN1-8
+Added Pin To Net: NetName=FAN Pin=CN1-1
+Added Pin To Net: NetName=TEMP Pin=CN1-2
+Added Pin To Net: NetName=SIG_2 Pin=CN1-3
+Added Pin To Net: NetName=SIG_1 Pin=CN1-4
+Added Pin To Net: NetName=PWM Pin=CN1-5
+Added Pin To Net: NetName=DIR Pin=CN1-6
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=+3V3 Pin=CN1-8

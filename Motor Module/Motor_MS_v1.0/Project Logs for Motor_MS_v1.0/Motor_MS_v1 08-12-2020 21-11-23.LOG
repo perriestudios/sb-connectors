@@ -1,0 +1,44 @@
+Added Component: Designator=CN1(1747786-1)
+Added Component: Designator=P1(61201021721)
+Add component (AddParameter): Name = "Contact Resistance"; Value = "20mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://katalog.we-online.de/em/datasheet/6120xx21721.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40to125degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Angled"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "61201021721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "61201021721"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Number"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published Date"; Value = "August2018"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Withstanding Voltage"; Value = "500VAC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Working Voltage"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=CN1-8
+Added Pin To Net: NetName=+3V3 Pin=P1-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=GND Pin=CN1-7
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Net: Name=GND
+Added Pin To Net: NetName=MAIN_DIR Pin=CN1-6
+Added Pin To Net: NetName=MAIN_DIR Pin=P1-3
+Added Net: Name=MAIN_DIR
+Added Pin To Net: NetName=MAIN_PWM Pin=CN1-5
+Added Pin To Net: NetName=MAIN_PWM Pin=P1-4
+Added Net: Name=MAIN_PWM
+Added Pin To Net: NetName=MOT_FAN Pin=CN1-1
+Added Pin To Net: NetName=MOT_FAN Pin=P1-8
+Added Net: Name=MOT_FAN
+Added Pin To Net: NetName=RPM_A Pin=CN1-4
+Added Pin To Net: NetName=RPM_A Pin=P1-5
+Added Net: Name=RPM_A
+Added Pin To Net: NetName=RPM_B Pin=CN1-3
+Added Pin To Net: NetName=RPM_B Pin=P1-6
+Added Net: Name=RPM_B
+Added Pin To Net: NetName=TEMP Pin=CN1-2
+Added Pin To Net: NetName=TEMP Pin=P1-7
+Added Net: Name=TEMP
+Added Class: Name=Motor_MS_v1.0

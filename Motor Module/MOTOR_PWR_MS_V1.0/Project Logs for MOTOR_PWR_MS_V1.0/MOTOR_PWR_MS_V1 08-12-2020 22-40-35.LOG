@@ -1,0 +1,10 @@
+Added Component: Designator=CN1(787328-1)
+Added Pin To Net: NetName=+24V Pin=CN1-1
+Added Pin To Net: NetName=+24V Pin=CN1-1
+Added Pin To Net: NetName=MGND Pin=CN1-2
+Added Pin To Net: NetName=MGND Pin=CN1-2
+Added Pin To Net: NetName=+12V Pin=CN1-4
+Added Pin To Net: NetName=+12V Pin=CN1-4
+Added Pin To Net: NetName=PGND Pin=CN1-5
+Added Pin To Net: NetName=PGND Pin=CN1-5
+Added Member To Class: ClassName=MOTOR_PWR_MS_V1.0 Member=Component CN1 Component_1
